@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsppdate",
+        "uuid": 32708829,
+        "checksum": "gxijva"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
